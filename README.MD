@@ -57,7 +57,7 @@ Buatlah sebuah project website dengan mengimplementasikan **single-page applicat
 4.  Gunakan modul ES6 jika memungkinkan untuk memisahkan file JS berdasarkan fitur.
 
 
->**Output yang Diharapkan:**
+>### **Output yang Diharapkan:**
 
 -   Kode sumber lengkap dengan struktur folder yang rapi.
 -   File konfigurasi **ESLint**.
