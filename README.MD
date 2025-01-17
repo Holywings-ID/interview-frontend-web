@@ -1,7 +1,6 @@
 # SOAL INTERVIEW WEB DEVELOPER
 
 Buatlah sebuah project website dengan mengimplementasikan **single-page application (SPA)** menggunakan **JavaScript (Vue.js atau Nuxt.js), HTML, dan CSS**. Website tersebut harus memiliki fitur-fitur berikut yang mengambil data dari file `images.json` yang disediakan.
-Waktu yang diberikan untuk mengerjakan adalah **2 jam**.
 
 
 ## Fitur Utama:
