@@ -16,6 +16,7 @@ Buatlah sebuah project website dengan mengimplementasikan **single-page applicat
     -   Setiap kartu gambar di dalam galeri harus memiliki **title**, **image**, dan **rating**.
 3.  **Image Carousel**
     
+    -   Berisi item-item dari file `images.json` yang memiliki `is_featured: true`    
     -   Carousel harus mendukung fitur navigasi (panah kiri dan kanan) untuk melihat gambar sebelumnya atau selanjutnya.
     -   Tambahkan efek transisi untuk mempercantik pergantian gambar.
 4.  **Tooltip**
